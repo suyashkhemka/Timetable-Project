@@ -1,0 +1,14 @@
+SMAP
+FacultyLoginAfterPref_jsp.java
+JSP
+*S JSP
+*F
++ 0 FacultyLoginAfterPref.jsp
+VIEW/FacultyPanel/FacultyLoginAfterPref.jsp
+*L
+5,65:45
+70,10:111
+79:121
+80,4:123
+83,8:127
+*E
